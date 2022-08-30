@@ -1,0 +1,13 @@
+{
+  "name": "log-args",
+  "version": "1.0.0",
+  "bin": {
+    "log-args": "./log-args.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rauschma/log-args.git"
+  },
+  "author": "Axel Rauschmayer",
+  "license": "ISC"
+}
